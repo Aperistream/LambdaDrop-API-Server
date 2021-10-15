@@ -1,0 +1,182 @@
+{
+    "questions":{
+        "team1":{
+            "q1": {
+                "th1": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                },
+                "th2": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                }
+            },
+            "q2": {
+                "th1": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                },
+                "th2": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                }
+            },
+            "q3": {
+                "th1": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                },
+                "th2": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                }
+            },
+            "q4": {
+                "th1": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                },
+                "th2": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                }
+            }
+        },
+        "team2":{
+            "q1": {
+                "th1": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                },
+                "th2": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                }
+            },
+            "q2": {
+                "th1": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                },
+                "th2": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                }
+            },
+            "q3": {
+                "th1": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                },
+                "th2": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                }
+            },
+            "q4": {
+                "th1": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                },
+                "th2": {
+                    "thname": "",
+                    "question": "",
+                    "rep1": "",
+                    "rep2": "",
+                    "rep3": "",
+                    "rep4": "",
+                    "correp": 1
+                }
+            }
+        }
+    },
+    "options":{
+        "scores": {
+            "show": false,
+            "team1": 100,
+            "team2": 100
+        },
+        "state": {
+            "closed": true,
+            "question": 1,
+            "q-theme": 0,
+            "team": 1,
+            "switched-timestamp": 0
+        }
+    }
+}
