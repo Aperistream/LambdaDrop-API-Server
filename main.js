@@ -62,6 +62,6 @@ server.get('/ping', function(req, res) {
     res.status(200).send("pong !")
 });
 
-server.listen(10254, () => {
+server.listen(40469, () => {
     console.log("Serveur démarré sur le port 40469")
 })
