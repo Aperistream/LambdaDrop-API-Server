@@ -1,19 +1,22 @@
 {
   "name": "lambdadrop-server",
   "version": "1.0.0",
-  "description": "Serveur reliant deux clients lambda drop",
+  "description": "Serveur reliant les clients LambdaDrop",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/"
+    "url": "https://github.com/Aperistream/LambdaDrop-API-Server"
   },
   "author": "Le_Mocha",
-  "license": "GNU",
+  "license": "LGPL-3.0-only",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "express": ">=4.17.1",
-    "sqlite3": "^4.2.0"
+    "mongoose": "^6.0.11",
+    "mysql": "^2.18.1"
   }
 }
