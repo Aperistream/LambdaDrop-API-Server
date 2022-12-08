@@ -15,7 +15,7 @@
   "license": "LGPL-3.0-only",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "express": ">=4.17.1",
+    "express": ">=4.18.2",
     "mongoose": "^6.0.11",
     "mysql": "^2.18.1",
     "socket.io": "^4.4.1"
